@@ -1,0 +1,20 @@
+{
+	"identifier": "5drip#1678",
+	"format": "HTML",
+	"body": "aTTK-LSG.html",
+	"resources": [
+		"resources/aTTK-LSG/cebeba49d2adc5e470af0ca993e22f14d8d00743.jpg"
+	],
+	"metadata": {
+		"title": "강제 인증",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-12T04:59:15.819Z"
+			}
+		],
+		"external_identifier": "aTTK-LSG",
+		"post_number": 318,
+		"index_page_number": 2
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"identifier": "5drip#788",
+	"format": "HTML",
+	"body": "5RBFV-kN.html",
+	"resources": [
+		"resources/5RBFV-kN/68a43a351632d044e830041de65e609a3e203c37.jpg",
+		"resources/5RBFV-kN/9f08efef7e2be20c705b84f482acb938a6f59695.jpg",
+		"resources/5RBFV-kN/fc24dd92ff7cd58a471456a7b3ac1c7637c2186f.jpg",
+		"resources/5RBFV-kN/e48749cf7a32abe1961d4f1f3ea2ccc026b38434.jpg",
+		"resources/5RBFV-kN/cf16ce444bdf9439f3b5b05ddbbd9bd8d7b1cb4a.jpg",
+		"resources/5RBFV-kN/56d4b763173a1dc8c89f3e9c18e828ce07d34e27.jpg"
+	],
+	"metadata": {
+		"title": "책읽는 문어",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-12T04:53:49.240Z"
+			}
+		],
+		"external_identifier": "5RBFV-kN",
+		"post_number": 159,
+		"index_page_number": 10
+	}
+}

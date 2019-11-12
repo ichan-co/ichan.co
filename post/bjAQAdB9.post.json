@@ -1,0 +1,20 @@
+{
+	"identifier": "5drip#1664",
+	"format": "HTML",
+	"body": "bjAQAdB9.html",
+	"resources": [
+		"resources/bjAQAdB9/6b850e02fd9dd77675f90e8ca5af9dcad44fcaa5.jpg"
+	],
+	"metadata": {
+		"title": "번역 잘된 영화 제목.JPG",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-12T04:59:11.865Z"
+			}
+		],
+		"external_identifier": "bjAQAdB9",
+		"post_number": 316,
+		"index_page_number": 2
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"identifier": "5drip#1852",
+	"format": "HTML",
+	"body": "cd-Kgl4g.html",
+	"resources": [
+		"resources/cd-Kgl4g/21def9b120b4219f49a0c12db31dc3412a7ba716.jpg",
+		"resources/cd-Kgl4g/969585a09b4ef7de94cca8641aa1982629b85b5a.jpg",
+		"resources/cd-Kgl4g/88fa823953fdac107ae2244603e1d28296f7e1d6.jpg",
+		"resources/cd-Kgl4g/27bba51140b5f34f71c9a665c67b6914572256cc.jpg",
+		"resources/cd-Kgl4g/6d0cb027afa371c4c9574ce972f2d3b045caa931.jpg",
+		"resources/cd-Kgl4g/ceaa56d088669d70e9f337bcfed247220dcb6a16.jpg",
+		"resources/cd-Kgl4g/75632d3c8b239736dc26c0f8b19dff304d642b43.jpg",
+		"resources/cd-Kgl4g/a6448609cd44953ebd7215f93cb19bcb04897bf4.jpg",
+		"resources/cd-Kgl4g/7c905d7d81cf4ecb8b33e6278fc1dc02910a8a08.jpg",
+		"resources/cd-Kgl4g/c031222172a8db367a292dd03743471e12ff2282.jpg",
+		"resources/cd-Kgl4g/d723e031e20458b2ceeec8b38066829b7b05b10a.jpg",
+		"resources/cd-Kgl4g/9612ae885dd74247a9e75d13bbfe64a269aa29f5.jpg",
+		"resources/cd-Kgl4g/39060f3162224c63c57d2f0a07010b84cce09106.jpg",
+		"resources/cd-Kgl4g/772b2ee0d0d0a31b76e309d0f482340fa10ca167.jpg",
+		"resources/cd-Kgl4g/c60bed2a7dabb56cfece983ba8189cf2d813b3ea.jpg",
+		"resources/cd-Kgl4g/17f5f11c8ac7587f834f184f41dfd48041bf9a57.jpg"
+	],
+	"metadata": {
+		"title": "기계치 배우의 하루",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-12T12:55:35.973Z"
+			}
+		],
+		"external_identifier": "cd-Kgl4g",
+		"post_number": 344,
+		"index_page_number": 1
+	}
+}

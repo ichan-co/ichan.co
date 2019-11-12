@@ -1,0 +1,23 @@
+{
+	"identifier": "5drip#1875",
+	"format": "HTML",
+	"body": "LQhhNgww.html",
+	"resources": [
+		"resources/LQhhNgww/6ec6aa18d4fef298447a29eb8369dafdd2e07878.jpg",
+		"resources/LQhhNgww/7b84486f3c3f1ee9cff5440ea8f20f92dfdf559c.jpg",
+		"resources/LQhhNgww/bb9f7eb9288723e3081af539f4c70d3b38fb2274.png",
+		"resources/LQhhNgww/f886578362302ac2f1b819468a8324926627713e.png"
+	],
+	"metadata": {
+		"title": "게임 버그로 시작해서 의학 논문까지 쓰이게 된 사건",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-12T12:55:41.543Z"
+			}
+		],
+		"external_identifier": "LQhhNgww",
+		"post_number": 346,
+		"index_page_number": 1
+	}
+}

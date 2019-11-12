@@ -1,0 +1,20 @@
+{
+	"identifier": "5drip#1181",
+	"format": "HTML",
+	"body": "acNpMdde.html",
+	"resources": [
+		"resources/acNpMdde/cc2ff45072c5e53d49991fb79437796f2652c6f7.jpg"
+	],
+	"metadata": {
+		"title": "정형돈 평생짤",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-12T04:56:41.160Z"
+			}
+		],
+		"external_identifier": "acNpMdde",
+		"post_number": 244,
+		"index_page_number": 6
+	}
+}

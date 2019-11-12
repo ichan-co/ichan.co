@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/*
+	index.css
+	Written on October 29–31, and November 4, 2019.
+*/
+
+.index {
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+	padding: 0.2rem;
+	list-style: none;
+}

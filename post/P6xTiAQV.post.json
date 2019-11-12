@@ -1,0 +1,20 @@
+{
+	"identifier": "5drip#188",
+	"format": "HTML",
+	"body": "P6xTiAQV.html",
+	"resources": [
+		"resources/P6xTiAQV/b0b6023af3e90473a1f94a7820871aa2ad9f0f1a.jpg"
+	],
+	"metadata": {
+		"title": "스턴트 대역.jpg",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-12T04:48:13.257Z"
+			}
+		],
+		"external_identifier": "P6xTiAQV",
+		"post_number": 10,
+		"index_page_number": 17
+	}
+}

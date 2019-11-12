@@ -1,0 +1,22 @@
+{
+	"identifier": "5drip#134",
+	"format": "HTML",
+	"body": "-XZBaRUp.html",
+	"resources": [
+		"resources/-XZBaRUp/204522dbb62ff7f43dcb185211ded4f769f8f733.jpg",
+		"resources/-XZBaRUp/6e8776bbe39a697dcfd746f5e50994e1d890f859.jpg",
+		"resources/-XZBaRUp/2d0ff3b63c32bc58a144b8216b7862928645e7ce.jpg"
+	],
+	"metadata": {
+		"title": "비행기를 조종하는 흑인을 뭐라고 하는지 알아?",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-12T04:47:56.217Z"
+			}
+		],
+		"external_identifier": "-XZBaRUp",
+		"post_number": 2,
+		"index_page_number": 18
+	}
+}

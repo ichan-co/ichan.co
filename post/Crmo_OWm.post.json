@@ -1,0 +1,23 @@
+{
+	"identifier": "5drip#650",
+	"format": "HTML",
+	"body": "Crmo_OWm.html",
+	"resources": [
+		"resources/Crmo_OWm/0f6ee020689b06c94820757cc0f773fed8ef10b2.jpg",
+		"resources/Crmo_OWm/1437282d867d016f16ca38cb47db62dc845b3f05.jpg",
+		"resources/Crmo_OWm/cda5e812ba7d554afb29c86e866814ab795906a3.jpg",
+		"resources/Crmo_OWm/4fe260df6b6322b8bf003efff93a55ce3881c006.jpg"
+	],
+	"metadata": {
+		"title": "세계에서 가장 많은 방사능을 안고있는 운석조각.jpg",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-12T04:52:33.857Z"
+			}
+		],
+		"external_identifier": "Crmo_OWm",
+		"post_number": 122,
+		"index_page_number": 12
+	}
+}

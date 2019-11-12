@@ -1,0 +1,20 @@
+{
+	"identifier": "5drip#239",
+	"format": "HTML",
+	"body": "9g1QtAxZ.html",
+	"resources": [
+		"resources/9g1QtAxZ/936012bf30f29c03f8228e0b4cbf2acdf9fa1aa5.jpg"
+	],
+	"metadata": {
+		"title": "거짓말 탐지로봇.manhwa",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-12T04:48:56.112Z"
+			}
+		],
+		"external_identifier": "9g1QtAxZ",
+		"post_number": 29,
+		"index_page_number": 16
+	}
+}

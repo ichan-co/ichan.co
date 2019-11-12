@@ -1,0 +1,21 @@
+{
+	"identifier": "5drip#1317",
+	"format": "HTML",
+	"body": "ov6eXsuO.html",
+	"resources": [
+		"resources/ov6eXsuO/e95ec047d2c7153bb672d110c1d9f1791318101a.jpg",
+		"resources/ov6eXsuO/251f0081735536aeafa7d8d4c02bb0dd311a1cf7.jpg"
+	],
+	"metadata": {
+		"title": "어디선가 많이본 웨이브 고데기",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-12T04:57:45.639Z"
+			}
+		],
+		"external_identifier": "ov6eXsuO",
+		"post_number": 275,
+		"index_page_number": 4
+	}
+}

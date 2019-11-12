@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/*
+	disqus-thread.css
+	Written on November 4, 8, and 12, 2019.
+*/
+
+.disqus-thread {
+	padding: 0.1rem 0.9rem;
+}
+
+.disqus-thread .disqus-thread__unavailablility-notice {
+	text-align: center;
+}
