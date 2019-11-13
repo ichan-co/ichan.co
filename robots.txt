@@ -1,0 +1,6 @@
+# robots.txt
+# Written on November 13, 2019.
+
+User-agent: *
+Disallow: *.json
+Disallow: /n*
