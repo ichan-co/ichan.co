@@ -1,0 +1,20 @@
+{
+	"identifier": "5drip#1985",
+	"format": "HTML",
+	"body": "VnlbW8Ug.html",
+	"resources": [
+		"resources/VnlbW8Ug/50eab4943f428ff1882ccd8f5bfae4068c7fcd3f.jpg"
+	],
+	"metadata": {
+		"title": "친구.jpg",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:43:39.717Z"
+			}
+		],
+		"external_identifier": "VnlbW8Ug",
+		"post_number": 366,
+		"index_page_number": 9
+	}
+}

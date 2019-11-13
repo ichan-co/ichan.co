@@ -1,0 +1,21 @@
+{
+	"identifier": "5drip#2915",
+	"format": "HTML",
+	"body": "Mk4dcLBA.html",
+	"resources": [
+		"resources/Mk4dcLBA/36bfe75bdc44426ff40019d2250f4ff58c3bbd6e",
+		"resources/Mk4dcLBA/02f5665f3bbdea125d103b235d7fa87300fa33c2"
+	],
+	"metadata": {
+		"title": "사카린의 진실",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:57:06.509Z"
+			}
+		],
+		"external_identifier": "Mk4dcLBA",
+		"post_number": 530,
+		"index_page_number": 1
+	}
+}

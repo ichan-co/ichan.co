@@ -1,0 +1,21 @@
+{
+	"identifier": "5drip#1947",
+	"format": "HTML",
+	"body": "8bv21vfX.html",
+	"resources": [
+		"resources/8bv21vfX/3c11bc867606ed46600b3618db56b44cefa86bdd.png",
+		"resources/8bv21vfX/47da9fa00e6411eaa9ccebc69ce471f8479729b4.jpg"
+	],
+	"metadata": {
+		"title": "세계 유튜브 조회수 순위",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:43:19.865Z"
+			}
+		],
+		"external_identifier": "8bv21vfX",
+		"post_number": 357,
+		"index_page_number": 10
+	}
+}

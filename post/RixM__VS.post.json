@@ -1,0 +1,20 @@
+{
+	"identifier": "5drip#2889",
+	"format": "HTML",
+	"body": "RixM__VS.html",
+	"resources": [
+		"resources/RixM__VS/50d34a0d481f68894245de88a951dd094bff9056"
+	],
+	"metadata": {
+		"title": "줄무늬 옷 잘못 입으면 이렇게 됨",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:48:58.633Z"
+			}
+		],
+		"external_identifier": "RixM__VS",
+		"post_number": 516,
+		"index_page_number": 2
+	}
+}

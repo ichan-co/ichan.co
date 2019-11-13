@@ -1,0 +1,20 @@
+{
+	"identifier": "5drip#2843",
+	"format": "HTML",
+	"body": "cQGgIXT0.html",
+	"resources": [
+		"resources/cQGgIXT0/581bafd5ef2ad60d8cec3b58d15680655138d09c.jpg"
+	],
+	"metadata": {
+		"title": "자동사냥 매크로",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:48:42.546Z"
+			}
+		],
+		"external_identifier": "cQGgIXT0",
+		"post_number": 510,
+		"index_page_number": 2
+	}
+}

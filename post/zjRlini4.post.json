@@ -1,0 +1,23 @@
+{
+	"identifier": "5drip#2529",
+	"format": "HTML",
+	"body": "zjRlini4.html",
+	"resources": [
+		"resources/zjRlini4/a3bea04b2b7f3ab12307b190e550dc143249cbc4.jpg",
+		"resources/zjRlini4/5191ffb62ea3766ac12af6116caab981100b9b02.jpg",
+		"resources/zjRlini4/46fd17ec0a6de2111c3f54c47bc8f54f7f95f190.jpg",
+		"resources/zjRlini4/5fed5bcc2b8f35f37194291b80ada9a6816bf911.jpg"
+	],
+	"metadata": {
+		"title": "길거리 DVD의 위엄",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:46:30.302Z"
+			}
+		],
+		"external_identifier": "zjRlini4",
+		"post_number": 447,
+		"index_page_number": 5
+	}
+}

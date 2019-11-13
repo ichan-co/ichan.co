@@ -1,0 +1,30 @@
+{
+	"identifier": "5drip#2288",
+	"format": "HTML",
+	"body": "kdBKGNvZ.html",
+	"resources": [
+		"resources/kdBKGNvZ/ce72096de7688a4c04a49d988d63c6ae616c5fe7.jpg",
+		"resources/kdBKGNvZ/a7f39e307bbd3c0fb8032fea46d5a283ef3bc549.jpg",
+		"resources/kdBKGNvZ/cddc6826cd0fdb7b4f92042f27f91ad4d65d27c1.jpg",
+		"resources/kdBKGNvZ/3b3a4c6e1559647fdc43e8153070ff9b11050b4b.jpg",
+		"resources/kdBKGNvZ/9a5a77e8910c6c05612ad1219c1245fe45090661.jpg",
+		"resources/kdBKGNvZ/f4d3fb5ccf72db63df2a8effa0fcc8e8877c0336.jpg",
+		"resources/kdBKGNvZ/f116a88b5a64a87f069136b358a87b341acb0491.jpg",
+		"resources/kdBKGNvZ/a0c0d8da938ea2d6fc85b8d3755bdbfd4920f0be.jpg",
+		"resources/kdBKGNvZ/5ff5a5aa3a6eac11cffabefcbe056eb7d8a06cbd.jpg",
+		"resources/kdBKGNvZ/0b196d1c293d8b3812e7c11fa167847bf9714acb.jpg",
+		"resources/kdBKGNvZ/5123ff7d4e7cd8108aacbd123f609a04c5d3a6a8.jpg"
+	],
+	"metadata": {
+		"title": "뉴욕 길거리 패션",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:45:36.184Z"
+			}
+		],
+		"external_identifier": "kdBKGNvZ",
+		"post_number": 422,
+		"index_page_number": 6
+	}
+}
