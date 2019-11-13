@@ -1,12 +1,13 @@
 @charset "UTF-8";
 /*
 	post.css
-	Written on October 29, 30, November 4, 11, and 12, 2019.
+	Written on October 29, 30, November 4, 11, 12, and 13, 2019.
 */
 
 .post {
 	padding: 1rem;
 	overflow-wrap: break-word;
+	overflow: hidden;
 }
 
 .post .post__title {

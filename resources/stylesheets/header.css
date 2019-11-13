@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*
 	header.css
-	Written on October 29, 30, November 4, and 12, 2019.
+	Written on October 29, 30, November 4, 12, and 13, 2019.
 */
 
 .header {
@@ -22,7 +22,6 @@
 .header .header__icon {
 	vertical-align: bottom;
 	height: 5rem;
-	margin-right: 0.2rem;
 }
 
 .header .header__catchphrase {

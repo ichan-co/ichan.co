@@ -187,11 +187,22 @@
 		<link rel="stylesheet" href="/resources/stylesheets/footer.css">
 		<link rel="stylesheet" href="/resources/stylesheets/post.css">
 
-		<!-- Google Analytics -->
-		<script id="google-analytics" src="https://www.googletagmanager.com/gtag/js?id=UA-151994823-1" data-google-analytics-tracking-identifier="UA-151994823-1" async></script>
-		<script type="module" src="/resources/modules/activate_google_analytics.mjs"></script>
+		<script src="/resources/scripts/controlled_element_injection.js"></script>
 
-		<script src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5dbf6d76272975b2" defer></script>
+		<!-- Google Analytics -->
+		<script>
+			window.google_analytics_data_layer = window.google_analytics_data_layer || [];
+			function gtag() {
+				window.google_analytics_data_layer.push(arguments);
+			}
+
+			gtag("js", new Date);
+			gtag("config", "UA-151994823-1");
+		</script>
+		<script id="google-analytics" src="https://www.googletagmanager.com/gtag/js?l=google_analytics_data_layer&id=UA-151994823-1&" data-google-analytics-tracking-identifier="UA-151994823-1" async></script>
+
+		<!-- AddThis -->
+		<script src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5dbf6d76272975b2" async></script>
 	</head>
 	<body>
 		<header class="header">

@@ -23,32 +23,56 @@
 				"itemListElement": [
 					{
 						"@type": "ListItem",
-						"item": {"@id": "https://ichan.co/post/0_90oiIQ"},
+						"item": {
+							"@id": "https://ichan.co/post/0_90oiIQ",
+							"@type": "Article",
+							"url": "https://ichan.co/post/0_90oiIQ"
+						},
 						"position": 6
 					},
 					{
 						"@type": "ListItem",
-						"item": {"@id": "https://ichan.co/post/unzA6D-N"},
+						"item": {
+							"@id": "https://ichan.co/post/unzA6D-N",
+							"@type": "Article",
+							"url": "https://ichan.co/post/unzA6D-N"
+						},
 						"position": 5
 					},
 					{
 						"@type": "ListItem",
-						"item": {"@id": "https://ichan.co/post/yJ6jKTuX"},
+						"item": {
+							"@id": "https://ichan.co/post/yJ6jKTuX",
+							"@type": "Article",
+							"url": "https://ichan.co/post/yJ6jKTuX"
+						},
 						"position": 4
 					},
 					{
 						"@type": "ListItem",
-						"item": {"@id": "https://ichan.co/post/uii4RsY5"},
+						"item": {
+							"@id": "https://ichan.co/post/uii4RsY5",
+							"@type": "Article",
+							"url": "https://ichan.co/post/uii4RsY5"
+						},
 						"position": 3
 					},
 					{
 						"@type": "ListItem",
-						"item": {"@id": "https://ichan.co/post/-XZBaRUp"},
+						"item": {
+							"@id": "https://ichan.co/post/-XZBaRUp",
+							"@type": "Article",
+							"url": "https://ichan.co/post/-XZBaRUp"
+						},
 						"position": 2
 					},
 					{
 						"@type": "ListItem",
-						"item": {"@id": "https://ichan.co/post/e5NcCOZs"},
+						"item": {
+							"@id": "https://ichan.co/post/e5NcCOZs",
+							"@type": "Article",
+							"url": "https://ichan.co/post/e5NcCOZs"
+						},
 						"position": 1
 					}
 				],
@@ -89,9 +113,19 @@
 		<link rel="stylesheet" href="/resources/stylesheets/entry.css">
 		<link rel="stylesheet" href="/resources/stylesheets/pagination.css">
 
+		<script src="/resources/scripts/controlled_element_injection.js"></script>
+
 		<!-- Google Analytics -->
-		<script id="google-analytics" src="https://www.googletagmanager.com/gtag/js?id=UA-151994823-1" data-google-analytics-tracking-identifier="UA-151994823-1" async></script>
-		<script type="module" src="/resources/modules/activate_google_analytics.mjs"></script>
+		<script>
+			window.google_analytics_data_layer = window.google_analytics_data_layer || [];
+			function gtag() {
+				window.google_analytics_data_layer.push(arguments);
+			}
+
+			gtag("js", new Date);
+			gtag("config", "UA-151994823-1");
+		</script>
+		<script id="google-analytics" src="https://www.googletagmanager.com/gtag/js?l=google_analytics_data_layer&id=UA-151994823-1&" data-google-analytics-tracking-identifier="UA-151994823-1" async></script>
 	</head>
 	<body>
 		<header class="header">

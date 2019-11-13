@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/*
+	livere-thread.css
+	Written on November 4, 8, 12, and 13, 2019.
+*/
+
+.livere-thread {
+	padding: 0.1rem 1.2rem;
+}
+
+.livere-thread .livere-thread__unavailablility-notice {
+	text-align: center;
+}
