@@ -1,0 +1,24 @@
+{
+	"identifier": "5drip#3329",
+	"format": "HTML",
+	"body": "a5t-BmH8.html",
+	"resources": [
+		"resources/a5t-BmH8/48e7c8b116cdc40891fd45e8ca844bebef345154.png",
+		"resources/a5t-BmH8/561b975cea64837b73bfa6116effd502ca533637.png",
+		"resources/a5t-BmH8/91f059bb4fdffbbadbb878a028769147b24ddbf0.png",
+		"resources/a5t-BmH8/54f745fc8445ad45cdb4740704d26504d5d62bbd.png",
+		"resources/a5t-BmH8/fed2fb44378bd2649cf5d74870915a56e70cecbd.png"
+	],
+	"metadata": {
+		"title": "발명품",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T12:18:57.160Z"
+			}
+		],
+		"external_identifier": "a5t-BmH8",
+		"post_number": 727,
+		"index_page_number": 1
+	}
+}

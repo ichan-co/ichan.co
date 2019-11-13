@@ -1,0 +1,22 @@
+{
+	"identifier": "5drip#3307",
+	"format": "HTML",
+	"body": "Tea6dh1z.html",
+	"resources": [
+		"resources/Tea6dh1z/2c59020ad2e1021a854dcf5cccc2a01a3b60772c.jpg",
+		"resources/Tea6dh1z/a42f8ed19b1ae9c2f9a0154cdb02dc7e09342578.jpg",
+		"resources/Tea6dh1z/192c2d326d25a2cfcee8b796ef1922273f0a01a3.jpg"
+	],
+	"metadata": {
+		"title": "때 아닌 미더덕 논란",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T12:18:00.845Z"
+			}
+		],
+		"external_identifier": "Tea6dh1z",
+		"post_number": 716,
+		"index_page_number": 1
+	}
+}

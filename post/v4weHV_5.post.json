@@ -1,0 +1,20 @@
+{
+	"identifier": "5drip#3042",
+	"format": "HTML",
+	"body": "v4weHV_5.html",
+	"resources": [
+		"resources/v4weHV_5/dd92c164cb42e05b26f3a717a8a04fe554340730.png"
+	],
+	"metadata": {
+		"title": "SNS 중독",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T12:05:39.429Z"
+			}
+		],
+		"external_identifier": "v4weHV_5",
+		"post_number": 583,
+		"index_page_number": 8
+	}
+}

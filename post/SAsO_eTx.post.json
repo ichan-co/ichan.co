@@ -1,0 +1,25 @@
+{
+	"identifier": "5drip#3130",
+	"format": "HTML",
+	"body": "SAsO_eTx.html",
+	"resources": [
+		"resources/SAsO_eTx/ffce18901c4cd31806f61995335e0fcc727986e7.jpg",
+		"resources/SAsO_eTx/2c33ee6e8f582ec4f372abcbb20b9f925ec6261e.jpg",
+		"resources/SAsO_eTx/cd36f9b5c2f9e3abca7bc7925f337bd72a7bba38.jpg",
+		"resources/SAsO_eTx/40ac476bdf24438b22b4b02bd95a0c520de6d6f3.jpg",
+		"resources/SAsO_eTx/fcd7feda0df58ae35f447271b1696f6e6dbf778c.jpg",
+		"resources/SAsO_eTx/2fd5a27d327a5e07f226c78d998ac127d23439a5.jpg"
+	],
+	"metadata": {
+		"title": "실제 전쟁의 공포",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T12:08:50.519Z"
+			}
+		],
+		"external_identifier": "SAsO_eTx",
+		"post_number": 636,
+		"index_page_number": 5
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"identifier": "5drip#3191",
+	"format": "HTML",
+	"body": "l069Mk2I.html",
+	"resources": [
+		"resources/l069Mk2I/3cc456b3873340c7ac294abc8e5ba33f37619c63.jpg",
+		"resources/l069Mk2I/d3eb4f80cb3713f04d188965f85bd1c93a4f4a60.jpg",
+		"resources/l069Mk2I/382c486e63fc955df5d55b9cb886eb2d2ea3ab07.jpg",
+		"resources/l069Mk2I/5498c48142b32b927ff885a530caffd69be0e6ea.jpg",
+		"resources/l069Mk2I/ac11a8b88cf6d7a1e64c5451aec182b8c8c3e102.jpg",
+		"resources/l069Mk2I/8bdd2ee725bcf1bc863d4cb6f8f9b9f337e2fe3b.jpg",
+		"resources/l069Mk2I/7b9c815e5733d91b91bf8500b5c2233e71fa7329.jpg"
+	],
+	"metadata": {
+		"title": "외국의 흔한 옥탑방",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T12:10:04.123Z"
+			}
+		],
+		"external_identifier": "l069Mk2I",
+		"post_number": 658,
+		"index_page_number": 4
+	}
+}

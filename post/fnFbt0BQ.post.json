@@ -1,0 +1,25 @@
+{
+	"identifier": "5drip#3009",
+	"format": "HTML",
+	"body": "fnFbt0BQ.html",
+	"resources": [
+		"resources/fnFbt0BQ/e42707e3db198f4e0d3df7791786e4f90d259626.jpg",
+		"resources/fnFbt0BQ/d293a7412a594c9701e3635fce91923eacae239e.jpg",
+		"resources/fnFbt0BQ/213a2f618c9be30c73da89b5ed1913827eee4dfd.jpg",
+		"resources/fnFbt0BQ/b0ee4ec5f30ba90af0b486eb99cd8b9c1b2e9946.jpg",
+		"resources/fnFbt0BQ/d5536aa222f49be2025267fa93cca66a914fe521.jpg",
+		"resources/fnFbt0BQ/a1b6b81b65445b9aa9cb3faf226b20c82ddfb600.jpg"
+	],
+	"metadata": {
+		"title": "사막에 피어난 꽃밭",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T12:04:57.163Z"
+			}
+		],
+		"external_identifier": "fnFbt0BQ",
+		"post_number": 569,
+		"index_page_number": 9
+	}
+}

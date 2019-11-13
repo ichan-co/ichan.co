@@ -1,0 +1,23 @@
+{
+	"identifier": "5drip#2052",
+	"format": "HTML",
+	"body": "keQbHq2n.html",
+	"resources": [
+		"resources/keQbHq2n/c5080c0406a7d5be6bf7c4e0b63e2c1681f000ee.jpg",
+		"resources/keQbHq2n/68880c9cb2ae6949ef6bb595e9cc589e136c62aa.jpg",
+		"resources/keQbHq2n/facb1e66db060f794bc794824b22eb48d3df8e53.jpg",
+		"resources/keQbHq2n/343bda13fc01e442d4911c17493f8aa831a3c352.jpg"
+	],
+	"metadata": {
+		"title": "메이웨더의 돈자랑",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:44:16.029Z"
+			}
+		],
+		"external_identifier": "keQbHq2n",
+		"post_number": 384,
+		"index_page_number": 18
+	}
+}

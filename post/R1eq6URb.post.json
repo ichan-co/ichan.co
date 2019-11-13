@@ -1,0 +1,25 @@
+{
+	"identifier": "5drip#2958",
+	"format": "HTML",
+	"body": "R1eq6URb.html",
+	"resources": [
+		"resources/R1eq6URb/6ddc5c6fe02cb7a832120d802d3b959b040af79b.jpg",
+		"resources/R1eq6URb/dfb18c32ea6ef39adc8e337d1da13d3140611964.jpg",
+		"resources/R1eq6URb/3678bdac219aec4044d92b2ab62632c5a1fc004e.jpg",
+		"resources/R1eq6URb/7d3eb631091b1d9190d0a9a87f1d43add506c301.jpg",
+		"resources/R1eq6URb/6147b443b58e14e1ea8285649ff2c61f1b656989.jpg",
+		"resources/R1eq6URb/f3d0eb6a3aefc44bdcd65bb2bbc97807f70d5f9e.jpg"
+	],
+	"metadata": {
+		"title": "민폐 택시 손님",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T12:03:57.677Z"
+			}
+		],
+		"external_identifier": "R1eq6URb",
+		"post_number": 548,
+		"index_page_number": 10
+	}
+}

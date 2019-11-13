@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/*
+	header.css
+	Written on October 29, 30, November 4, 12, and 13, 2019.
+*/
+
+.header {
+	display: block;
+	background-color: white;
+	padding: 1.1rem 0;
+	font-size: 3.5rem;
+	line-height: 1;
+	text-align: center;
+}
+
+.header .header__home-page-link {
+	display: block;
+	color: black;
+	text-decoration: none;
+}
+
+.header .header__icon {
+	vertical-align: bottom;
+	height: 5rem;
+}
+
+.header .header__catchphrase {
+	margin-top: 0.9rem;
+	margin-bottom: 0;
+	font-size: 1rem;
+	letter-spacing: 0.5rem;
+}

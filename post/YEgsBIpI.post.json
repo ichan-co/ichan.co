@@ -1,0 +1,31 @@
+{
+	"identifier": "5drip#2726",
+	"format": "HTML",
+	"body": "YEgsBIpI.html",
+	"resources": [
+		"resources/YEgsBIpI/316d7b73d73eaef4320bce3a7421710ec05d1208.jpg",
+		"resources/YEgsBIpI/8a9e97cf27d637ff95d70e91d64bcd5de33f9503.jpg",
+		"resources/YEgsBIpI/3c12817a6c4c0d23a90a28014b66f2f075c6897b.jpg",
+		"resources/YEgsBIpI/a485830e8e449462042476cc9278f4631deb7fb5.jpg",
+		"resources/YEgsBIpI/64242b80caeb3a24ad151bd1d403c7e37ee71bd4.jpg",
+		"resources/YEgsBIpI/3c581314b2f4b52d12e497ac16dae54183f2bf7e.jpg",
+		"resources/YEgsBIpI/a24f0a26d4491e5de5e6b6f58661dbb6355c63d1.jpg",
+		"resources/YEgsBIpI/0b1335bf1849a92650aadc078ad089c531a09738.jpg",
+		"resources/YEgsBIpI/1ee48a4d85df257157e4aaa1ccd4ff9cd984076c.jpg",
+		"resources/YEgsBIpI/fdad2ce06abf28d7d5ef250e8232df6955e2112e.jpg",
+		"resources/YEgsBIpI/56392ce3ffde23bc20557cafcfb2f60dfb77cad7.jpg",
+		"resources/YEgsBIpI/39f7aedae5c94e6c4fcc93c5b1e7fae12d39c08f.jpg"
+	],
+	"metadata": {
+		"title": "네이버 데이터센터의 위엄",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:47:51.789Z"
+			}
+		],
+		"external_identifier": "YEgsBIpI",
+		"post_number": 486,
+		"index_page_number": 13
+	}
+}

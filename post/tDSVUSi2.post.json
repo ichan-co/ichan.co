@@ -1,0 +1,21 @@
+{
+	"identifier": "5drip#3098",
+	"format": "HTML",
+	"body": "tDSVUSi2.html",
+	"resources": [
+		"resources/tDSVUSi2/430b3e2950abb79f5dce45cb5918f174f06a86ef.jpg",
+		"resources/tDSVUSi2/70f08fab92f8c2373d49bade7708d7f1e5f0f4a8.jpg"
+	],
+	"metadata": {
+		"title": "PT 트레이너와의 문자",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T12:07:43.181Z"
+			}
+		],
+		"external_identifier": "tDSVUSi2",
+		"post_number": 612,
+		"index_page_number": 6
+	}
+}

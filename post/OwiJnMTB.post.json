@@ -1,0 +1,23 @@
+{
+	"identifier": "5drip#2891",
+	"format": "HTML",
+	"body": "OwiJnMTB.html",
+	"resources": [
+		"resources/OwiJnMTB/f555d142b95d399c3a100fdc227e51a0bb4e3e8b.png",
+		"resources/OwiJnMTB/2d41bbee942b0ad0bef4279e39742e020d602665.png",
+		"resources/OwiJnMTB/d093cd07507ae14caf88831362828ed451cc72a7.png",
+		"resources/OwiJnMTB/d6c7b7435fa5afeabc1d326cd3ae36185953c898.png"
+	],
+	"metadata": {
+		"title": "한국 중소기업의 현실",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:49:02.441Z"
+			}
+		],
+		"external_identifier": "OwiJnMTB",
+		"post_number": 518,
+		"index_page_number": 11
+	}
+}

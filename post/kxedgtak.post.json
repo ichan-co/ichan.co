@@ -1,0 +1,24 @@
+{
+	"identifier": "5drip#2598",
+	"format": "HTML",
+	"body": "kxedgtak.html",
+	"resources": [
+		"resources/kxedgtak/a736fd11ada5ab2a68f6b63dfd5cfa3c40b6afb7.jpg",
+		"resources/kxedgtak/1fd40244b454c399507ef922b261527c3008047f.jpg",
+		"resources/kxedgtak/8ddc99a0b05333d9c7a4755acac7de6d2ea57c29.jpg",
+		"resources/kxedgtak/43b2c39f544f980b0625b83d2ebafb482d87e599.jpg",
+		"resources/kxedgtak/cf51a579cc0086839604b0e9264a9bfc6054bb57.jpg"
+	],
+	"metadata": {
+		"title": "천조국의 풍선 날리기 이벤트",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:46:54.387Z"
+			}
+		],
+		"external_identifier": "kxedgtak",
+		"post_number": 459,
+		"index_page_number": 14
+	}
+}
