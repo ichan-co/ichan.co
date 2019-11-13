@@ -1,0 +1,21 @@
+{
+	"identifier": "5drip#3238",
+	"format": "HTML",
+	"body": "Ya8OP6XX.html",
+	"resources": [
+		"resources/Ya8OP6XX/e16d30af69799fb0638d9c0843cec30739d763a0.jpg",
+		"resources/Ya8OP6XX/863a63f79144bad1f2e80b2723502e31c1295ebf.jpg"
+	],
+	"metadata": {
+		"title": "박명수 명언 모음",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T12:12:50.909Z"
+			}
+		],
+		"external_identifier": "Ya8OP6XX",
+		"post_number": 688,
+		"index_page_number": 3
+	}
+}

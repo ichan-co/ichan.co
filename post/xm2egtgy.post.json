@@ -1,0 +1,22 @@
+{
+	"identifier": "5drip#2709",
+	"format": "HTML",
+	"body": "xm2egtgy.html",
+	"resources": [
+		"resources/xm2egtgy/6dad5823ec9f9f818cbef1d7d67ffffbd3b3e673.png",
+		"resources/xm2egtgy/1de754ec9d0ed0c49d7ec9e6155bcb9824fd8598.png",
+		"resources/xm2egtgy/c866fd54c5b80eb1079d755e69637e9eb5e9352f.png"
+	],
+	"metadata": {
+		"title": "차량용 블랙박스를 달아야하는 이유",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:47:39.997Z"
+			}
+		],
+		"external_identifier": "xm2egtgy",
+		"post_number": 481,
+		"index_page_number": 13
+	}
+}

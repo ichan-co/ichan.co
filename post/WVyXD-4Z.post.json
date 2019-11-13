@@ -1,0 +1,27 @@
+{
+	"identifier": "5drip#2910",
+	"format": "HTML",
+	"body": "WVyXD-4Z.html",
+	"resources": [
+		"resources/WVyXD-4Z/a81bdd93f6dd2241eba5b2deb7dcae858755b7e6.jpg",
+		"resources/WVyXD-4Z/cad5f8753ad4d134f0e983c6ecaee5b98db103e3.png",
+		"resources/WVyXD-4Z/1596f6b65f4e84b80a683f0a8949bef794524f6c.jpg",
+		"resources/WVyXD-4Z/5fad3ece657070b888ec1332e0551a0c3dfc3c3f.jpg",
+		"resources/WVyXD-4Z/f793cade2ab0df9ac523ebe642c0800ce5359d0d.jpg",
+		"resources/WVyXD-4Z/f39664ce53480f1dcaa3c92bb87e0a2b24ef7d06.jpg",
+		"resources/WVyXD-4Z/87dfc51b8840afdc1409193db52aa7303ba781f1.jpg",
+		"resources/WVyXD-4Z/6b2b9ac1f75fd02699bebd56eedd53fd405eb372.jpg"
+	],
+	"metadata": {
+		"title": "코디 때문에 고생하는 PD",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:56:59.164Z"
+			}
+		],
+		"external_identifier": "WVyXD-4Z",
+		"post_number": 527,
+		"index_page_number": 11
+	}
+}

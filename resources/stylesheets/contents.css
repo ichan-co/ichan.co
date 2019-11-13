@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/*
+	contents.css
+	Written on October 29, 30, November 4, and 12, 2019.
+*/
+
+.contents {
+	display: block;
+	margin-top: 2rem;
+}
+@media only screen and (max-width: 590px) {
+	.contents {
+		margin-bottom: 5rem;
+	}
+}
+
+.contents .contents__card {
+	margin: 1.1rem auto;
+	display: block;
+	max-width: 890px;
+	border-radius: 0.2rem;
+	background-color: white;
+	box-sizing: border-box;
+}
+.contents .contents__card.contents__card--transparent-background {
+	background-color: transparent;
+}

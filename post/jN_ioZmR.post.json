@@ -1,0 +1,20 @@
+{
+	"identifier": "5drip#2511",
+	"format": "HTML",
+	"body": "jN_ioZmR.html",
+	"resources": [
+		"resources/jN_ioZmR/f74b1fbe69d4d697cdf011d412464687a9e55cdb.jpg"
+	],
+	"metadata": {
+		"title": "구글 검색을 좀 더 유용하게 하는법",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:46:26.356Z"
+			}
+		],
+		"external_identifier": "jN_ioZmR",
+		"post_number": 445,
+		"index_page_number": 15
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"identifier": "5drip#1693",
+	"format": "HTML",
+	"body": "1XRD8hrv.html",
+	"resources": [
+		"resources/1XRD8hrv/4e5170c000366dfb4d275125301e857602709ac4.jpg"
+	],
+	"metadata": {
+		"title": "멕시코식 폭동",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:42:04.375Z"
+			}
+		],
+		"external_identifier": "1XRD8hrv",
+		"post_number": 322,
+		"index_page_number": 21
+	}
+}

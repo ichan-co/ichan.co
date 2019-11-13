@@ -1,0 +1,23 @@
+{
+	"identifier": "5drip#2960",
+	"format": "HTML",
+	"body": "Dox1UY9t.html",
+	"resources": [
+		"resources/Dox1UY9t/ef464329f0a4c4994dcf307f07438ac9902bf3c1.jpg",
+		"resources/Dox1UY9t/316326fca8d7978437ce7841940084b199fbf505.jpg",
+		"resources/Dox1UY9t/ad1bf31184445a33fa8ad957189d6e9d3b0d5515.jpg",
+		"resources/Dox1UY9t/18aa2f6c56a6211d1e5fba6c9ae6c48894f58414.jpg"
+	],
+	"metadata": {
+		"title": "일본 커뮤니티 사이트 영구차단 짤",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T12:04:00.206Z"
+			}
+		],
+		"external_identifier": "Dox1UY9t",
+		"post_number": 549,
+		"index_page_number": 10
+	}
+}

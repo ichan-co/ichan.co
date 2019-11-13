@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/*
+	entry.css
+	Written on October 29–31, November 4, and 12, 2019.
+*/
+
+.entry {
+	margin: 0.2rem;
+	display: grid;
+	grid-template-columns: min-content 1fr;
+	border-bottom: thin solid var(--gray-6);
+}
+.entry.entry--for-this-post {
+	border-color: var(--gray-3);
+}
+
+.entry .entry__tag {
+	display: inline-block;
+	background-color: var(--gray-5);
+	padding: 0.2rem;
+	white-space: nowrap;
+	color: white;
+}
+.entry.entry--for-this-post .entry__tag {
+	background-color: var(--gray-3);
+}
+
+.entry .entry__link {
+	display: flex;
+	padding-left: 0.5rem;
+	align-items: center;
+	text-decoration: none;
+	color: black;
+}
+.entry .entry__link:hover {
+	background-color: var(--gray-8);
+	font-weight: bold;
+}

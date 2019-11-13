@@ -1,0 +1,20 @@
+{
+	"identifier": "5drip#2991",
+	"format": "HTML",
+	"body": "T14UFhi1.html",
+	"resources": [
+		"resources/T14UFhi1/a26d62d3624864e8f44e1fe24a10ad68f55c7f2c"
+	],
+	"metadata": {
+		"title": "전기가 없는 마을",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T12:04:43.768Z"
+			}
+		],
+		"external_identifier": "T14UFhi1",
+		"post_number": 565,
+		"index_page_number": 9
+	}
+}

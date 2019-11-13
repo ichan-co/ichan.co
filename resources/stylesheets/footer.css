@@ -1,0 +1,65 @@
+@charset "UTF-8";
+/*
+	footer.css
+	Written on October 3, 4, 6, 7, 12–16, 30, November 4–5, and 12, 2019.
+*/
+
+.footer {
+	display: block;
+	width: 100%;
+	border-top: thin solid var(--gray-2);
+	background-color: var(--gray-1);
+	box-sizing: border-box;
+	padding-top: 2rem;
+	padding-bottom: 3rem;
+	padding-left: 10.9rem;
+}
+@media only screen and (max-width: 1350px) {
+	.footer {
+		padding-left: 7rem;
+	}
+}
+@media only screen and (max-width: 1079px) {
+	.footer {
+		padding-left: 4.5rem;
+	}
+}
+@media only screen and (max-width: 590px) {
+	.footer {
+		display: none !important;
+	}
+}
+
+.footer .footer__title {
+	margin-top: 0;
+	margin-bottom: 0.7rem;
+	display: block;
+	font-size: 1.25rem;
+	font-weight: bold;
+	color: white;
+}
+
+.footer .footer__catchphrase {
+	margin: 0;
+	display: block;
+	padding: 0;
+	font-size: 0.9rem;
+	line-height: 1.5;
+	color: var(--gray-5);
+}
+.footer .footer__contacts {
+	margin: 0;
+	display: block;
+	padding: 0;
+	font-size: 0.75rem;
+	line-height: 1.35;
+	font-style: normal;
+	color: var(--gray-5);
+}
+.footer .footer__contacts a {
+	text-decoration: none;
+	color: white;
+}
+.footer .footer__contacts a:hover {
+	color: wheat;
+}

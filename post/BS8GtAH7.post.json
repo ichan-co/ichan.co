@@ -1,0 +1,20 @@
+{
+	"identifier": "5drip#1004",
+	"format": "HTML",
+	"body": "BS8GtAH7.html",
+	"resources": [
+		"resources/BS8GtAH7/082a01a201cfad08070653b8ab2e024bf52095cd.jpg"
+	],
+	"metadata": {
+		"title": "항공모함 실제 크기.jpg",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:38:31.289Z"
+			}
+		],
+		"external_identifier": "BS8GtAH7",
+		"post_number": 221,
+		"index_page_number": 26
+	}
+}

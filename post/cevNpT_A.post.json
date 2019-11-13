@@ -1,0 +1,20 @@
+{
+	"identifier": "5drip#2241",
+	"format": "HTML",
+	"body": "cevNpT_A.html",
+	"resources": [
+		"resources/cevNpT_A/c64daed8a12b72072432b503a0a1bd5a176ebf1b.jpg"
+	],
+	"metadata": {
+		"title": "치어리더의 삭발",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:45:21.769Z"
+			}
+		],
+		"external_identifier": "cevNpT_A",
+		"post_number": 415,
+		"index_page_number": 16
+	}
+}

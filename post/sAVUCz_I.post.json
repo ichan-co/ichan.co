@@ -1,0 +1,21 @@
+{
+	"identifier": "5drip#1206",
+	"format": "HTML",
+	"body": "sAVUCz_I.html",
+	"resources": [
+		"resources/sAVUCz_I/6a4c9d829019d0fe878cb98b1717ed5743756023.jpg",
+		"resources/sAVUCz_I/789c1ad31d785bd65783f0dd44b3178e82597364.jpg"
+	],
+	"metadata": {
+		"title": "치킨 칼로리 반으로 줄여서 먹는법",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:39:28.115Z"
+			}
+		],
+		"external_identifier": "sAVUCz_I",
+		"post_number": 248,
+		"index_page_number": 25
+	}
+}

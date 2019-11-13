@@ -1,0 +1,22 @@
+{
+	"identifier": "5drip#3014",
+	"format": "HTML",
+	"body": "-AOvoLsI.html",
+	"resources": [
+		"resources/-AOvoLsI/a9bc1cfd8919ee3955c5e96ca49c689c3303ce56.jpg",
+		"resources/-AOvoLsI/562ee39e0cf69471662162f8b46e09e0f98fe465.jpg",
+		"resources/-AOvoLsI/cda729c92159cc32cb3223cff99ea8684ba6a205.jpg"
+	],
+	"metadata": {
+		"title": "수제 맥주 만들기",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T12:05:03.666Z"
+			}
+		],
+		"external_identifier": "-AOvoLsI",
+		"post_number": 572,
+		"index_page_number": 8
+	}
+}

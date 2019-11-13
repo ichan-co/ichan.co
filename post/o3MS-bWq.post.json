@@ -1,0 +1,20 @@
+{
+	"identifier": "5drip#235",
+	"format": "HTML",
+	"body": "o3MS-bWq.html",
+	"resources": [
+		"resources/o3MS-bWq/1f1e40a6554922c894333705ec8b3eab02cea736.png"
+	],
+	"metadata": {
+		"title": "새로나온 맥주 후기.jpg",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:29:30.308Z"
+			}
+		],
+		"external_identifier": "o3MS-bWq",
+		"post_number": 27,
+		"index_page_number": 36
+	}
+}

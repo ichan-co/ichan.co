@@ -1,0 +1,20 @@
+{
+	"identifier": "5drip#3189",
+	"format": "HTML",
+	"body": "SWxQFsxF.html",
+	"resources": [
+		"resources/SWxQFsxF/65084128ec8517d7813c0d74a824f82b0ade0a3f.png"
+	],
+	"metadata": {
+		"title": "헬스트레이너 부르는 방법",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T12:09:59.325Z"
+			}
+		],
+		"external_identifier": "SWxQFsxF",
+		"post_number": 656,
+		"index_page_number": 4
+	}
+}

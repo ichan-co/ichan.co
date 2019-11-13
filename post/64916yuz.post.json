@@ -1,0 +1,25 @@
+{
+	"identifier": "5drip#1336",
+	"format": "HTML",
+	"body": "64916yuz.html",
+	"resources": [
+		"resources/64916yuz/9c09cfd5b7e7d2904ccf9f6efc500fffb799f91e.jpg",
+		"resources/64916yuz/1da4e7e4fe7072120110d05b2e4cc0fa697cf362.jpg",
+		"resources/64916yuz/9e681c618e42e31848bf4d96a853504bfc35e004.jpg",
+		"resources/64916yuz/90187fb9b5c80805ac37a4bb494b4c6ade329609.jpg",
+		"resources/64916yuz/5a032765f82688580aed073664c8b7311dabbc23.jpg",
+		"resources/64916yuz/3774da363f48dd243b99b5c46a69ee3d0a2598a2.jpg"
+	],
+	"metadata": {
+		"title": "아나운서 4대 여신",
+		"events": [
+			{
+				"event": "Post collection",
+				"time": "2019-11-13T11:40:33.401Z"
+			}
+		],
+		"external_identifier": "64916yuz",
+		"post_number": 279,
+		"index_page_number": 23
+	}
+}
